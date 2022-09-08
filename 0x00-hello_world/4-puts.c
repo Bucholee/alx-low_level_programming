@@ -1,4 +1,4 @@
-#include <stdio.h>
+i#include <stdio.h>
 
 
 
@@ -16,7 +16,7 @@
  *
  * */
 
-int main(void)
+Int main(void)
 
 {
 
